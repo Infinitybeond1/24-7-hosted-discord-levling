@@ -1,6 +1,6 @@
 # Railway-Discord-Leveling
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange)](http://makeapullrequest.com)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Infinitybeond1/24-7-hosted-discord-levling)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Infinitybeond1/24-7-hosted-discord-levling)
 [![Build status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/Infinitybeond1/24-7-hosted-discord-levling)
