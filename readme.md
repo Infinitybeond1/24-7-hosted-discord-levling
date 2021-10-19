@@ -4,6 +4,8 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Infinitybeond1/24-7-hosted-discord-levling)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Infinitybeond1/24-7-hosted-discord-levling)
 [![Build status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/Infinitybeond1/24-7-hosted-discord-levling)
+[![Version](https://img.shields.io/badge/version-1.0.1-green)](https://github.com/Infinitybeond1/24-7-hosted-discord-levling)
+
 
 This repo will show you how to host a discord levelling bot on railway, and keep it online 24/7.
 
